@@ -6,6 +6,8 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <p>Também, vale ressaltar, foi o meu primeiro projeto com responsividade!!!</p>
-    
+
+<h1>Para desktop:</h1>    
 <img src="assets/img projeto1git.png"/> 
+<h2>Para smartphone:</h2>
 <img src="assets/Captura de tela 2024-02-27 192025.png">
