@@ -7,5 +7,5 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <p>Também, vale ressaltar, foi o meu primeiro projeto com responsividade!!!</p>
     
-<img src="assets/img projeto1git.png"/> 
+<img src="assets/img projeto1git.png"/ width="70px" height="70px"> 
 <img src="assets/Captura de tela 2024-02-27 192025.png">
