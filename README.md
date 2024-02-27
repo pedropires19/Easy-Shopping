@@ -1,7 +1,7 @@
 <h1>Easy Shopping 🤳🏻</h1>
 <br>
 <br>
-<h3>Esse foi um dos projetos que aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub!</a></h3>
+<h3>Esse foi um dos projetos que aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub!👾</a></h3>
 <p>Nesse projeto utilizei as seguintes linguagens:</p>
 <h1 align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
